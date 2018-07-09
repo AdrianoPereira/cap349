@@ -18,5 +18,11 @@
   
   - [Terras Indígenas - Fonte: FUNAI](http://mapas2.funai.gov.br/portal_mapas/shapes/ti_sirgas.zip)<br>
   
+  - [Unidades de Conservação - Fonte: MMA]
+    - [ucstodas.shp](http://mapas.mma.gov.br/ms_tmp/ucstodas.shp)
+    - [ucstodas.shx](http://mapas.mma.gov.br/ms_tmp/ucstodas.shx)
+    - [ucstodas.dbf](http://mapas.mma.gov.br/ms_tmp/ucstodas.dbf)
+    - **Obs.:** Usar Lat/Long SAD69 (SRID: 4618)<br>
+  
   - [Focos de Queimada 2017 - Fonte Original: INPE](https://github.com/gqueiroz/cap394/blob/master/2018/class-02/dados/focos_2017.zip) (**Obs.:** Dados Modificados para finalidade da Aula)
   

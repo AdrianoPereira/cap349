@@ -1,4 +1,4 @@
-# CAP349 - Bancos de Dados Geográficos - 2018
+# CAP349 - Bancos de Dados Geográficos
 
 ## Tipo e Operadores Espaciais
 

@@ -18,7 +18,7 @@
   
   - [Terras Indígenas - Fonte: FUNAI](http://mapas2.funai.gov.br/portal_mapas/shapes/ti_sirgas.zip)<br>
   
-  - [Unidades de Conservação - Fonte: MMA]
+  - Unidades de Conservação - Fonte: MMA
     - [ucstodas.shp](http://mapas.mma.gov.br/ms_tmp/ucstodas.shp)
     - [ucstodas.shx](http://mapas.mma.gov.br/ms_tmp/ucstodas.shx)
     - [ucstodas.dbf](http://mapas.mma.gov.br/ms_tmp/ucstodas.dbf)

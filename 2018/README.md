@@ -29,3 +29,7 @@
 ## Armazenamento e Recuperação Dados Raster com PostGIS Raster
 
 - **[Slides](https://github.com/gqueiroz/cap349/blob/master/2018/raster-postgis.pdf)**
+
+## Sistemas Gerenciadores de Bancos de Dados Matriciais
+
+- **[Slides](https://github.com/gqueiroz/cap349/blob/master/2018/sgbd-matriciais.pdf)**

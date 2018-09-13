@@ -26,3 +26,6 @@
   
   - [Focos de Queimada 2017 - Fonte Original: INPE](https://github.com/gqueiroz/cap394/blob/master/2018/class-02/dados/focos_2017.zip) (**Obs.:** Dados Modificados para finalidade da Aula)
   
+## Armazenamento e Recuperação Dados Raster com PostGIS Raster
+
+- **[Slides](https://github.com/gqueiroz/cap349/blob/master/2018/raster-postgis.pdf)**

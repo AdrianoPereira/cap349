@@ -1,0 +1,13 @@
+name: homework01
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - folium
+  - pyproj
+  - descartes
+  - shapely
